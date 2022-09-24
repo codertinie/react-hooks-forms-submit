@@ -58,6 +58,6 @@ function Form(props) {
     {listOfSubmissions}
     </div>
   );
-}
+};
 
 export default Form;
